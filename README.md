@@ -11,15 +11,12 @@
 # KoVicuna: Korean Vicuna Model based on Vicuna (feat. Stanford Alpaca)
 
 Vicuna 모델을 학습한 방식과 동일한 방식과 모델셋으로 학습을 진행한, 한국어 Vicuna 모델입니다.
-</p>
 
 ## 데이터셋 제작 방법
 
 데이터셋은 기본적으로 [ShareGPT 제공한 62만 대화문 데이터셋](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered)을 기반으로 합니다.
 
 해당 대화문을 DeepL 을 통해 모두 번역했습니다. [번역본 링크](https://huggingface.co/datasets/junelee/sharegpt_deepl_ko)
-
-</p>
 
 ## 학습경과
 
@@ -35,13 +32,9 @@ Vicuna 모델을 학습한 방식과 동일한 방식과 모델셋으로 학습�
 
 이 [주소](https://colab.research.google.com/drive/1EOFuhdkE5IjRKaSZOZDwhDicXU1cUE5f?usp=sharing)를 통해 코랩에 들어간후 자세한 가이드를 따라해주세요.
 
-</p>
-
 ## 가중치공개
 
 - 준의 허깅페이스에서 [가중치](https://huggingface.co/junelee/ko_vicuna_7b) 를 확인할 수 있습니다.
-
-</p>
 
 ## 예시
 
