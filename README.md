@@ -22,9 +22,9 @@ Vicuna 모델을 학습한 방식과 동일한 방식과 모델셋으로 학습�
 
 1. 번역된 62만 대화문과 Vicuna 7B 를 준비
 2. A100 * 8 개로 15시간 동안 학습 진행
-3. 자세한 학습 내역은 이곳을 참고해주세요.
+3. 자세한 학습 내역은 [이곳](https://github.com/melodysdreamj/KoVicuna/blob/main/assets/KoVicuna%20training%20Report%20_%20huggingface%20%E2%80%93%20Weights%20%26%20Biases.pdf)을 참고해주세요.
 
-<img width="742" alt="W B Chart 2023  4  20  오후 3_57_14" src="https://user-images.githubusercontent.com/21379657/233285808-f6e5514a-107a-4392-ac21-2ea631fce2c2.png">
+<img width="300" alt="W B Chart 2023  4  20  오후 3_57_14" src="https://user-images.githubusercontent.com/21379657/233285808-f6e5514a-107a-4392-ac21-2ea631fce2c2.png">
 
 
 ## 데모
