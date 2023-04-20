@@ -45,4 +45,4 @@ Vicuna 모델을 학습한 방식과 동일한 방식과 모델셋으로 학습�
 
 
 ### Author
-- [JUNE LEE](https://github.com/melodysdreamj) - 송도인공지능 스터디에서 활동하고 있습니다.
+- [JUNE LEE](https://github.com/melodysdreamj) - [송도 인공지능 스터디](https://open.kakao.com/o/gUEN1NK)에서 활동하고 있습니다.
