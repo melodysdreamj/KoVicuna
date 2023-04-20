@@ -24,6 +24,7 @@ Vicuna 모델을 학습한 방식과 동일한 방식과 모델셋으로 학습�
 2. A100 * 8 개로 15시간 동안 학습 진행
 3. 자세한 학습 내역은 이곳을 참고해주세요.
 
+[W B Chart 2023  4  20  오후 3_57_14](https://user-images.githubusercontent.com/21379657/233285808-f6e5514a-107a-4392-ac21-2ea631fce2c2.png)
 
 ## 데모
 코랩프로일 경우 코랩에서 바로 사용해 보실수 있습니다.
@@ -38,6 +39,7 @@ Vicuna 모델을 학습한 방식과 동일한 방식과 모델셋으로 학습�
 
 ## 예시
 
+<img width="742" alt="스크린샷 2023-04-20 오후 12 59 37" src="https://user-images.githubusercontent.com/21379657/233285899-57e350b1-c0cd-4a5d-95e2-dda2376d2947.png">
 
 
 ### Author
