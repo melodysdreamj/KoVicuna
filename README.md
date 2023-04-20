@@ -30,9 +30,7 @@ Vicuna 모델을 학습한 방식과 동일한 방식과 모델셋으로 학습�
 ## 데모
 코랩프로일 경우 코랩에서 바로 사용해 보실수 있습니다.
 
-코랩에 들어간후 자세한 가이드를 따라해주세요.
-
-코랩[주소](https://colab.research.google.com/drive/1EOFuhdkE5IjRKaSZOZDwhDicXU1cUE5f?usp=sharing)
+이 [주소](https://colab.research.google.com/drive/1EOFuhdkE5IjRKaSZOZDwhDicXU1cUE5f?usp=sharing)를 통해 코랩에 들어간후 자세한 가이드를 따라해주세요.
 
 ## 가중치공개
 
