@@ -12,6 +12,12 @@
 
 Vicuna 모델을 학습한 방식과 동일한 방식과 모델셋으로 학습을 진행한, 한국어 Vicuna 모델입니다.
 
+
+## 예시
+
+<img width="742" alt="스크린샷 2023-04-20 오후 12 59 37" src="https://user-images.githubusercontent.com/21379657/233285899-57e350b1-c0cd-4a5d-95e2-dda2376d2947.png">
+
+
 ## 데이터셋 제작 방법
 
 데이터셋은 기본적으로 [ShareGPT 제공한 62만 대화문 데이터셋](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered)을 기반으로 합니다.
@@ -36,9 +42,6 @@ Vicuna 모델을 학습한 방식과 동일한 방식과 모델셋으로 학습�
 
 - 준의 허깅페이스에서 [가중치](https://huggingface.co/junelee/ko_vicuna_7b) 를 확인할 수 있습니다.
 
-## 예시
-
-<img width="742" alt="스크린샷 2023-04-20 오후 12 59 37" src="https://user-images.githubusercontent.com/21379657/233285899-57e350b1-c0cd-4a5d-95e2-dda2376d2947.png">
 
 
 ### Author
