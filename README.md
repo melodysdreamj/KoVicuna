@@ -8,7 +8,7 @@
 
 ---
 
-# KoVicuna: Korean Vicuna Model based on Vicuna (feat. Stanford Alpaca)
+# KoVicuna: Korean Vicuna Model based on Vicuna (feat. LLAMA)
 
 Vicuna 모델을 학습한 방식과 동일한 방식과 모델셋으로 학습을 진행한, 한국어 Vicuna 모델입니다.
 
