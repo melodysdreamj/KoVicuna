@@ -4,6 +4,7 @@
 
 ## Update Logs
 
+- 2023.4.21: Mozzipa님께서 [🤗KoVicuna7B 기반 ko_vicuna_7b_ggml_q4 모델](https://huggingface.co/Mozzipa/ko_vicuna_7b_ggml_q4) 을 공개해주셨습니다. 🙏🏻
 - 2023.4.20: [🤗LLAMA 7B 기반 KoVicuna 모델](https://huggingface.co/junelee/ko_vicuna_7b) 을 공개합니다.
 
 ---
@@ -20,7 +21,7 @@ Vicuna 모델을 학습한 방식과 동일한 방식과 모델셋으로 학습�
 
 ## 데이터셋 제작 방법
 
-데이터셋은 기본적으로 [ShareGPT 제공한 62만 대화문 데이터셋](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered)을 기반으로 합니다.
+데이터셋은 기본적으로 [ShareGPT에서 제공한 62만 대화문 데이터셋](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered)을 기반으로 합니다.
 
 해당 대화문을 DeepL 을 통해 모두 번역했습니다. [번역본 링크](https://huggingface.co/datasets/junelee/sharegpt_deepl_ko)
 
